@@ -1,0 +1,6 @@
+[submodule "submodules/ui"]
+	path = submodules/ui
+	url = https://github.com/ashishkharde/submodule-ui.git
+[submodule "submodules/features"]
+	path = submodules/features
+	url = https://github.com/ashishkharde/submodule-features.git
